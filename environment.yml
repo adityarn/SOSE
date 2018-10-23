@@ -61,3 +61,4 @@ dependencies:
     - pydap
     - git+https://github.com/dask/dask-glm.git
     - graphviz
+    - kubernetes
