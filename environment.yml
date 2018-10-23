@@ -11,7 +11,9 @@ dependencies:
   - pandas
   - xarray
   - dask
+  - dask-ml
   - distributed
+  - dask_kubernetes
   - bottleneck
   - numba
   - scikit-learn
